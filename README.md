@@ -1,1 +1,1 @@
-SapplyValues is a clone of the Sapply political compass, made to use 8values' UI.
+Politicalogram is a political compass test built upon a parallelogram. Based on the SapplyValues UI.
